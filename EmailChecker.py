@@ -17,7 +17,9 @@ if len(email) >=6:
                     else:
                         d=1
                 if k==1 or j==1 or d==1:
-                     print('fck off')     
+                    print('fck off')  
+                else:
+                    print('pass')
             else:
                 print('fck off')
         else:
